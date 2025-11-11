@@ -5,7 +5,7 @@ import os
 
 # Title
 st.title("💓 Blood Pressure Prediction App")
-st.write("Enter your details to check your BP level — with ❤️ from Cheloo & Keerthi")
+st.write("Enter your details to check your BP level")
 
 # Load dataset
 data = pd.read_csv("bp_data.csv")
