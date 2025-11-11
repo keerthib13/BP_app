@@ -1,4 +1,4 @@
-git add .Age,BMI,ExerciseHours,BloodPressure
+Age,BMI,ExerciseHours,BloodPressure
 22,24.5,6.5,82
 28,25.1,3.2,96
 34,27.3,2.5,104
